@@ -1,2 +1,3 @@
-var greetings = "Hellooooooo world!";
-alert (greetings);
+const greetings = "Hellooooooo world!";
+const name = "Patrick";
+alert (greetings+" "+Patrick);
